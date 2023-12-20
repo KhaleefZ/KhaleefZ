@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @KhaleefZ
 - 👀 I’m interested in ...Data science 
 - 🌱 I’m currently learning ... Digital marketing strategies with Implementation and Machine Learning
-- 📫 How to reach me ... 
-
-
+- 📫 Reach me through 
+Email-zkhaleef27@gmail.com
+Linkedin-www.linkedin.com/in/khaleef-z
 
 <!---
 KhaleefZ/KhaleefZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
