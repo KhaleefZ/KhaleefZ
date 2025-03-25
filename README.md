@@ -18,7 +18,9 @@ Welcome to my GitHub! I'm currently pursuing a 5-year integrated MSc program, sp
 
 🔹 Let's Connect!
 📧 zkhaleef27@gmail.com
+
 📎 www.linkedin.com/in/khaleef-z
+
 🚀 Always open to learning, collaborating, and contributing to exciting data projects!
 <!---
 KhaleefZ/KhaleefZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
