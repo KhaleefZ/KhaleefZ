@@ -1,41 +1,53 @@
-👋 Hello, I'm @KhaleefZ!
+Welcome to My GitHub Profile! 👋
 
-🎓 MSc (5-Year Integrated) Student | 📊 Aspiring Data Analyst | 📈 Passionate About Data & Insights
+📊 GitHub Stats
 
-Welcome to my GitHub!
+🔹 Total Stars Earned: X
+🔹 Total Commits (2025): X
+🔹 Total PRs: X
+🔹 Total Issues: X
+🔹 Contributed to (last year): X
 
-I'm currently pursuing a 5-year integrated MSc program, specializing in Data Analysis, Statistics, and Machine Learning. I love working with data to uncover patterns, generate insights, and create impactful visualizations.
+About Me
 
-🔹 What I Do:
+I'm a data enthusiast pursuing a 5-year integrated MSc program in Data Science & Analytics. Passionate about uncovering insights from data, I specialize in data analysis, visualization, and machine learning. I am committed to continuous learning and always eager to work on real-world data-driven projects.
 
-✔️ Data Cleaning & Preprocessing (Python, Pandas, NumPy)
+🔹 Technical Proficiency
 
-✔️ Exploratory Data Analysis (EDA) & Data Visualization (Matplotlib, Seaborn, Tableau)
+Languages & Tools:
 
-✔️ SQL for Data Querying & Management
+📌 Python, SQL, R, Excel, Power BI, Tableau
 
-✔️ Machine Learning (Scikit-learn, TensorFlow)
+Data Science & Analytics:
 
-✔️ Business Intelligence & Dashboard Creation
+📌 Data Cleaning, Data Wrangling, Data Visualization, Machine Learning, Predictive Analytics
 
-🔹 Projects & Interests:
+Web Development:
 
-📌 Data-Driven Decision Making
+📌 Flask, Django, HTML, CSS, JavaScript (ES6+), React.js
 
-📌 Predictive Analytics & Forecasting
+Frameworks & Libraries:
+  
+📌 NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow
 
-📌 Sentiment Analysis & NLP
+Database Management:
 
-📌 Financial & Healthcare Data Analysis
+📌 MySQL, PostgreSQL, MongoDB
 
-🔹 Let's Connect!
+Others:
 
-📧 zkhaleef27@gmail.com
+📌 Git, GitHub, Jupyter Notebooks, VS Code
 
-📎 www.linkedin.com/in/khaleef-z
 
-🚀 Always open to learning, collaborating, and contributing to exciting data projects!
-<!---
-KhaleefZ/KhaleefZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 For a comprehensive view of my skills and projects, visit my portfolio website.
+
+🤝 Collaboration and Communication
+
+I thrive in both individual and collaborative environments, ensuring projects are completed efficiently. My strong communication and presentation skills help me translate complex data insights into meaningful business decisions.
+
+📌 Open to collaborations and internship opportunities in data analytics and machine learning.
+
+📬 Let’s Connect!
+
+📧 [Your Email] | 🌐 [LinkedIn Profile] | 🚀 [Portfolio Website]
+
