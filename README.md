@@ -17,6 +17,7 @@ Welcome to my GitHub! I'm currently pursuing a 5-year integrated MSc program, sp
 📌 Financial & Healthcare Data Analysis
 
 🔹 Let's Connect!
+
 📧 zkhaleef27@gmail.com
 
 📎 www.linkedin.com/in/khaleef-z
