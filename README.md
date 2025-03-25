@@ -1,53 +1,77 @@
-Welcome to My GitHub Profile! 👋
 
-📊 GitHub Stats
+Welcome to My GitHub Profile! 👋  
 
-🔹 Total Stars Earned: X
-🔹 Total Commits (2025): X
-🔹 Total PRs: X
-🔹 Total Issues: X
-🔹 Contributed to (last year): X
+<img src="https://komarev.com/ghpvc/?username=Khaleefulla&label=Profile%20views&color=0e75b6&style=flat" alt="Khaleefulla Z" />  
 
-About Me
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Khaleefulla Z&show_icons=true&theme=radical" alt="Khaleefulla Z" />
+</p>
 
-I'm a data enthusiast pursuing a 5-year integrated MSc program in Data Science & Analytics. Passionate about uncovering insights from data, I specialize in data analysis, visualization, and machine learning. I am committed to continuous learning and always eager to work on real-world data-driven projects.
 
-🔹 Technical Proficiency
+About Me  
 
-Languages & Tools:
+🎓 I am a **Data Analyst student** pursuing an **MSc (5-year integrated course)** in **Data Science & Analytics**.
 
-📌 Python, SQL, R, Excel, Power BI, Tableau
+📊 Passionate about **data-driven decision-making, analytics, and visualization**, I enjoy transforming raw data into meaningful insights.  
 
-Data Science & Analytics:
+🚀 Committed to continuous learning and excited to apply my skills in real-world analytical projects.  
 
-📌 Data Cleaning, Data Wrangling, Data Visualization, Machine Learning, Predictive Analytics
 
-Web Development:
+🔹 Technical Proficiency  
 
-📌 Flask, Django, HTML, CSS, JavaScript (ES6+), React.js
-
-Frameworks & Libraries:
+- 💻 Languages & Tools**: Python, SQL, R, Power BI, Excel, Tableau, MS Office.
   
-📌 NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow
+- 📊 Data Science & Analytics**: Data Cleaning, Data Wrangling, Data Visualization, Machine Learning.
+  
+- 🔍 Web Development**: HTML, CSS, JavaScript, Flask.
+    
+- 📚 Frameworks & Libraries**: NumPy, Pandas, Matplotlib, Seaborn, scikit-learn.
+    
+- 🛢️ Database Management**: MySQL, PostgreSQL.
+  
+- 🛠️ Other Tools**: Git, GitHub, Jupyter Notebooks, VS Code.  
 
-Database Management:
+ 🔹 Technologies & Tools  
 
-📌 MySQL, PostgreSQL, MongoDB
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
-Others:
-
-📌 Git, GitHub, Jupyter Notebooks, VS Code
 
 
-💡 For a comprehensive view of my skills and projects, visit my portfolio website.
+📈 Collaboration and Communication  
 
-🤝 Collaboration and Communication
 
-I thrive in both individual and collaborative environments, ensuring projects are completed efficiently. My strong communication and presentation skills help me translate complex data insights into meaningful business decisions.
+🤝 I excel in both individual and team-based environments, ensuring projects are completed efficiently.  
 
-📌 Open to collaborations and internship opportunities in data analytics and machine learning.
+🗣️ My strong **communication and presentation skills** allow me to convey complex data insights.  
 
-📬 Let’s Connect!
+🔍 Always eager to explore **internship and collaboration opportunities** in **data analytics, machine learning, and business intelligence**.  
 
-📧 [Your Email] | 🌐 [LinkedIn Profile] | 🚀 [Portfolio Website]
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YourUsername&show_icons=true&layout=compact&theme=radical" alt="YourUsername" />
+</p>
 
+
+
+🚀 Let's Connect!  
+
+📫 Reach me at **zkhaleef27@gmail.com**  
+🌐 **[LinkedIn](#) | [Portfolio](#) | [Kaggle](#) | [HackerRank](#)**  
+
+<p align="left">
+<a href="https://www.linkedin.com/in/YourProfile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/YourProfile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/YourProfile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
+</p>  
