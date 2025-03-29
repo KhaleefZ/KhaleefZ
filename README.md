@@ -60,8 +60,9 @@ About Me
 🔍 Always eager to explore **internship and collaboration opportunities** in **data analytics, machine learning, and business intelligence**.  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YourUsername&show_icons=true&layout=compact&theme=radical" alt="YourUsername" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KhaleefZ&show_icons=true&layout=compact&theme=radical" alt="KhaleefZ" />
 </p>
+
 
 
 
