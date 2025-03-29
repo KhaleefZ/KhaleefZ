@@ -1,10 +1,10 @@
 
 Welcome to My GitHub Profile! 👋  
 
-<img src="https://komarev.com/ghpvc/?username=Khaleefulla&label=Profile%20views&color=0e75b6&style=flat" alt="Khaleefulla Z" />  
+<img src="https://komarev.com/ghpvc/?username=KhaleefZ&label=Profile%20views&color=0e75b6&style=flat" alt="KhaleefZ" />  
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Khaleefulla Z&show_icons=true&theme=radical" alt="Khaleefulla Z" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KhaleefZ&show_icons=true&theme=radical" alt="KhaleefZ" />
 </p>
 
 
