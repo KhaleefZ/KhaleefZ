@@ -69,7 +69,7 @@ Welcome to My GitHub Profile! 👋
 🚀 Let's Connect!  
 
 📫 Reach me at **zkhaleef27@gmail.com**  
-🌐 **[LinkedIn](#) | [Portfolio](#) | [Kaggle](#) | [HackerRank](#)**  
+🌐 **[LinkedIn](#) | [Kaggle](#) | [HackerRank](#)**  
 
 <p align="left">
 <a href="https://www.linkedin.com/in/khaleef-z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
