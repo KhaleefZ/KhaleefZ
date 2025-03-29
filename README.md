@@ -19,17 +19,17 @@ Welcome to My GitHub Profile! 👋
 
 ## Technical Proficiency  
 
-- 💻 Languages & Tools**: Python, SQL, R, Power BI, Excel, Tableau, MS Office.
+- 💻 Languages & Tools: Python, SQL, R, Power BI, Excel, Tableau, MS Office.
   
-- 📊 Data Science & Analytics**: Data Cleaning, Data Wrangling, Data Visualization, Machine Learning.
+- 📊 Data Science & Analytics: Data Cleaning, Data Wrangling, Data Visualization, Machine Learning.
   
-- 🔍 Web Development**: HTML, CSS, JavaScript, Flask.
+- 🔍 Web Development: HTML, CSS, JavaScript, Flask.
     
-- 📚 Frameworks & Libraries**: NumPy, Pandas, Matplotlib, Seaborn, scikit-learn.
+- 📚 Frameworks & Libraries: NumPy, Pandas, Matplotlib, Seaborn, scikit-learn.
     
-- 🛢️ Database Management**: MySQL, PostgreSQL.
+- 🛢️ Database Management: MySQL, PostgreSQL.
   
-- 🛠️ Other Tools**: Git, GitHub, Jupyter Notebooks, VS Code.  
+- 🛠️ Other Tools: Git, GitHub, Jupyter Notebooks, VS Code.  
 
  ## Technologies & Tools  
 
