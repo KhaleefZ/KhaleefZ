@@ -8,7 +8,7 @@ Welcome to My GitHub Profile! 👋
 </p>
 
 
-##About Me  
+## About Me  
 
 🎓 I am a **Data Analyst student** pursuing an **MSc (5-year integrated course)** in **Data Science & Analytics**.
 
@@ -17,7 +17,7 @@ Welcome to My GitHub Profile! 👋
 🚀 Committed to continuous learning and excited to apply my skills in real-world analytical projects.  
 
 
-##Technical Proficiency  
+## Technical Proficiency  
 
 - 💻 Languages & Tools**: Python, SQL, R, Power BI, Excel, Tableau, MS Office.
   
@@ -31,7 +31,7 @@ Welcome to My GitHub Profile! 👋
   
 - 🛠️ Other Tools**: Git, GitHub, Jupyter Notebooks, VS Code.  
 
- ##Technologies & Tools  
+ ## Technologies & Tools  
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -50,7 +50,7 @@ Welcome to My GitHub Profile! 👋
 
 
 
-##Collaboration and Communication  
+## Collaboration and Communication  
 
 
 🤝 I excel in individual and team-based environments, ensuring projects are completed efficiently.  
