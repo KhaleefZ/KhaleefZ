@@ -10,7 +10,7 @@ Welcome to My GitHub Profile! 👋
 
 ## About Me  
 
-🎓 I am a **Data Analyst student** pursuing an **MSc (5-year integrated course)** in **Data Science & Analytics**.
+🎓 I am a **Data Analyst student** pursuing an **MSc (5-year integrated course)** in **Decision and Computing Sciences**.
 
 📊 Passionate about **data-driven decision-making, analytics, and visualization**, I enjoy transforming raw data into meaningful insights.  
 
