@@ -14,7 +14,7 @@ Welcome to My GitHub Profile! 👋
 
 📊 Passionate about **data-driven decision-making, analytics, and visualization**, I enjoy transforming raw data into meaningful insights.  
 
-🚀 Committed to continuous learning and excited to apply my skills in real-world analytical projects.  
+🚀 Committed to continuous learning and excited to apply my skills in real-world software and analytical projects.  
 
 
 ## Technical Proficiency  
