@@ -8,6 +8,8 @@
 ### ⚡ Quick Stats  
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KhaleefZ&show_icons=true&theme=radical" alt="KhaleefZ" />
+
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KhaleefZ&show_icons=true&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
