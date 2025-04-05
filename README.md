@@ -55,6 +55,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhaleefZ&theme=radical" alt="GitHub Activity Graph" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaleefZ&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhaleefZ&theme=radical" />
+</p>
+
 ---
 
 ## 💼 Collaboration & Opportunities  
