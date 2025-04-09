@@ -12,6 +12,11 @@
 🌟 Always learning & applying skills to **real-world** data challenges.  
 
 <p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</p>
+
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KhaleefZ&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
@@ -63,8 +68,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaleefZ&layout=compact&theme=radical" />
 </p>
 
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=KhaleefZ&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhaleefZ&theme=radical" alt="Profile Summary" />
 </p>
 
 ---
