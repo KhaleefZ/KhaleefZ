@@ -11,13 +11,10 @@
 💡 Transforming **raw data** into **meaningful insights** for smarter decisions.  
 🌟 Always learning & applying skills to **real-world** data challenges.  
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</p>
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhaleefZ&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <strong><em>"In a world full of noise, let your code be your voice."</em></strong>
 </p>
 
 ---
