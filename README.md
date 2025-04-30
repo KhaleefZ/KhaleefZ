@@ -61,14 +61,28 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhaleefZ&theme=radical" alt="GitHub Activity Graph" />
 </p>
 
+## 🚀 Languages & Tools
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaleefZ&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaleefZ&layout=compact&theme=tokyonight&langs_count=8&size_weight=0&count_weight=1" alt="Top Langs" />
 </p>
 
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhaleefZ&theme=radical" alt="Profile Summary" />
-</p>
+
+
+🌟 *Passionate about building, breaking, and rebuilding. 
+
+---
+
+<div align="center">
+
+### 🧰 Tools of the Trade
+
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
 
 ---
 
