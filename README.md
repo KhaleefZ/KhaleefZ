@@ -85,20 +85,20 @@
 
 ## 📬 Let's Connect!  
 
-📧 **zkhaleef27@gmail.com**  
-🌍 **[LinkedIn](https://www.linkedin.com/in/khaleef-z)**  
-📊 **[Kaggle](https://www.kaggle.com/zkhaleef)**  
-💻 **[HackerRank](https://www.hackerrank.com/profile/h71762133026)**  
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/khaleef-z" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/khaleef-z" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.kaggle.com/zkhaleef" target="_blank">
-    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  <a href="https://www.kaggle.com/zkhaleef" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/h71762133026" target="_blank">
-    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  <a href="https://www.hackerrank.com/h71762133026" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
+  </a>
+  <a href="https://github.com/zkhaleef" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
 </p>
+
+
 
