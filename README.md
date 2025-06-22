@@ -85,7 +85,7 @@
 
 ## 📬 Let's Connect!  
 
-📧 Email: **zkhaleef27@gmail.com**  
+📧 **zkhaleef27@gmail.com**  
 🌍 **[LinkedIn](https://www.linkedin.com/in/khaleef-z)**  
 📊 **[Kaggle](https://www.kaggle.com/zkhaleef)**  
 💻 **[HackerRank](https://www.hackerrank.com/profile/h71762133026)**  
