@@ -6,7 +6,7 @@
 
 ## 🚀 About Me  
 
-🎓 **Data Analyst Student** pursuing an **MSc (5-year integrated course)** in **Decision & Computing Sciences**.  
+🎓 **Developer Student** pursuing an **MSc (5-year integrated course)** in **Decision & Computing Sciences**.  
 📊 Passionate about **data-driven decision-making, analytics, and visualization**.  
 💡 Transforming **raw data** into **meaningful insights** for smarter decisions.  
 🌟 Always learning & applying skills to **real-world** data challenges.  
