@@ -64,7 +64,7 @@
 ## 🚀 Languages & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaleefZ&layout=compact&theme=tokyonight&langs_count=8&size_weight=0&count_weight=1" alt="Top Langs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,mongodb,python,tailwind" />
 </p>
 
 
