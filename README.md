@@ -61,16 +61,21 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhaleefZ&theme=radical" alt="GitHub Activity Graph" />
 </p>
 
-## 🚀 Languages & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,mongodb,python,tailwind" />
-</p>
+## 🚀 GitHub Stats
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KhaleefZ&show_icons=true&theme=tokyonight&count_private=false)](https://github.com/KhaleefZ)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaleefZ&theme=tokyonight&langs_count=7&hide=TeX,Shell,Ruby)](https://github.com/KhaleefZ)
 
 
 🌟 *Passionate about building, breaking, and rebuilding. 
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,react,nextjs" />
+</p>
 
 ---
 
