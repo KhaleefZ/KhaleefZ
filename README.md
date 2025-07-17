@@ -69,7 +69,6 @@
   
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KhaleefZ&show_icons=true&theme=tokyonight&count_private=false)](https://github.com/KhaleefZ)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaleefZ&theme=tokyonight&langs_count=7&hide=TeX,Shell,Ruby)](https://github.com/KhaleefZ)
 
 </div>
 
