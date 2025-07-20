@@ -81,8 +81,6 @@
   <img src="https://skillicons.dev/icons?i=python,java,html,css,react,nextjs" />
 </p>
 </div>
----
-
 
 ## 💼 Collaboration & Opportunities  
 
