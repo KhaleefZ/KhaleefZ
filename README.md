@@ -66,24 +66,8 @@
 
 ---
 
-## 🏆 GitHub Contributions  
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhaleefZ&theme=radical" alt="GitHub Activity Graph" />
-</p>
-
-
-## 🚀 GitHub Stats
-
-<div align="center">
-
-  
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KhaleefZ&show_icons=true&theme=tokyonight&count_private=false)](https://github.com/KhaleefZ)
-
-
-</div>
-
-🌟 *Passionate about building, breaking, and rebuilding. 
+🌟 Passionate about building, breaking, and rebuilding. 
 
 ## 🧰 Tech Stack
 
