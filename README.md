@@ -72,10 +72,11 @@
 ## 🧰 Tech Stack
 
 <div align="center">
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,react,nextjs,nestjs,nodejs,shadcn,Django" />
-</p>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=python,html,css,react,nextjs,nestjs,nodejs,django" />
+  </p>
 </div>
+
 
 ## 💼 Collaboration & Opportunities  
 
