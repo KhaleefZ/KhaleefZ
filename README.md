@@ -73,7 +73,7 @@
 
 <div align="center">
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,react,nextjs,nestjs,nodejs,shadcn,Django" />
 </p>
 </div>
 
