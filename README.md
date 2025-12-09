@@ -6,10 +6,13 @@
 
 ## 🚀 About Me  
 
-🎓 **Developer Student** pursuing an **MSc (5-year integrated course)** in **Decision & Computing Sciences**.  
-📊 Passionate about **data-driven decision-making, analytics, and visualization**.  
-💡 Transforming **raw data** into **meaningful insights** for smarter decisions.  
-🌟 Always learning & applying skills to **real-world** data challenges.  
+🎓 Currently pursuing an **MSc in Decision & Computing Sciences** (5-year integrated).  
+💻 A **full-stack developer** with experience in building modern, scalable web applications.  
+🛠️ Skilled in **Next.js, NestJS, React, Node.js, MongoDB, SQL**, and API development.  
+📊 Interested in **data analytics**, **decision-making systems**, and turning data into actionable insights.  
+🤖 Exploring **AI/ML** and how intelligent systems can automate and improve real-world processes.  
+🧩 Passionate about **software engineering**, problem-solving, and creating efficient, user-focused solutions.  
+📚 Continuously learning and building projects to expand my knowledge and improve my skills.  
 
 
 
