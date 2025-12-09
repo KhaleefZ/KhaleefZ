@@ -57,6 +57,11 @@
 ![ChromaDB](https://img.shields.io/badge/-ChromaDB-4B0082?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
+### 🧪 Testing & API Tools  
+![Unit Testing](https://img.shields.io/badge/-Unit_Testing-25A162?style=for-the-badge&logo=testing-library&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
 ### 🛠️ Tools & Platforms  
