@@ -6,7 +6,7 @@
 
 ## 🚀 About Me  
 
-🎓 Currently pursuing an **MSc in Decision & Computing Sciences** (5-year integrated).  
+🎓 Currently pursuing  **MSc in Decision & Computing Sciences** (5-year integrated).  
 💻 A **full-stack developer** with experience in building modern, scalable web applications.  
 🛠️ Skilled in **Next.js, NestJS, React, Node.js, MongoDB, SQL**, and API development.  
 📊 Interested in **data analytics**, **decision-making systems**, and turning data into actionable insights.  
