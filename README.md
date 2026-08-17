@@ -1,124 +1,227 @@
-# Welcome to My GitHub Profile! 👋
+# Khaleef Z
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KhaleefZ&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <strong>Full-Stack Developer · Data & Analytics · AI/ML</strong>
 </p>
 
-## 🚀 About Me  
-
-🎓 Currently pursuing  **MSc in Decision & Computing Sciences** (5-year integrated).  
-💻 A **full-stack developer** with experience in building modern, scalable web applications.  
-🛠️ Skilled in **Next.js, NestJS, React, Node.js, MongoDB, SQL**, and API development.  
-📊 Interested in **data analytics**, **decision-making systems**, and turning data into actionable insights.  
-🤖 Exploring **AI/ML** and how intelligent systems can automate and improve real-world processes.  
-🧩 Passionate about **software engineering**, problem-solving, and creating efficient, user-focused solutions.  
-📚 Continuously learning and building projects to expand my knowledge and improve my skills.  
-
-
+<p align="center">
+  Building practical software and data-driven systems that solve real-world problems.
+</p>
 
 <p align="center">
-  <strong><em>"In a world full of noise, let your code be your voice."</em></strong>
+  <a href="https://github.com/KhaleefZ">
+    <img src="https://komarev.com/ghpvc/?username=KhaleefZ&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
 </p>
 
 ---
 
-## 🔥 Skills & Technologies  
+## About
 
-<div align="center">
-  
-### 📊 Data Analytics & Visualization  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+I’m a **Full-Stack Developer** with an academic background in **Decision & Computing Sciences**, focused on building reliable software, data-driven applications, and intelligent systems.
 
-### 🔬 Machine Learning & Data Science  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
+I enjoy working across the entire product lifecycle — from understanding a problem and designing the solution to developing the application, connecting the data, deploying it, and continuously improving it.
 
-### 🏗️ Web Development & Backend  
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+My interests sit at the intersection of:
 
-### 🗄️ Databases  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/-ChromaDB-4B0082?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+* **Software Engineering**
+* **Full-Stack Development**
+* **Data Analytics & Decision Systems**
+* **Artificial Intelligence & Machine Learning**
+* **Product Development**
 
-### 🧪 Testing & API Tools  
-![Unit Testing](https://img.shields.io/badge/-Unit_Testing-25A162?style=for-the-badge&logo=testing-library&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-
-### 🛠️ Tools & Platforms  
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-
-</div>
+I’m particularly interested in how software and data can be combined to make complex processes **simpler, smarter, and more useful**.
 
 ---
 
+## What I Build
 
-🌟 Passionate about building, breaking, and rebuilding. 
+### Full-Stack Applications
 
-## 🧰 Tech Stack
+Designing and developing modern web applications with a focus on:
 
-<div align="center">
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,html,css,react,nextjs,nestjs,nodejs,django" />
-  </p>
-</div>
+* Clean and intuitive user experiences
+* Scalable backend architecture
+* RESTful APIs
+* Authentication and data management
+* Database design
+* Performance and maintainability
 
+### Data & Analytics
 
-## 💼 Collaboration & Opportunities  
+Working with data to transform raw information into meaningful insights through:
 
-🔍 Open to **internships, collaborations, and data challenges**.  
-📢 Skilled at **presenting and communicating** data-driven insights.  
-📈 Excited to work on **business intelligence, machine learning, and analytics** projects.  
+* Data cleaning and preparation
+* Exploratory data analysis
+* Statistical analysis
+* Data visualization
+* Business intelligence
+* Decision-support systems
+
+### AI & Intelligent Systems
+
+Exploring practical applications of AI and machine learning, including:
+
+* Predictive modelling
+* Classification
+* Recommendation systems
+* Intelligent automation
+* AI-powered applications
+* Data-driven decision making
 
 ---
 
-## 📬 Let's Connect!  
+## Technology
+
+### Languages & Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,flask,django" />
+</p>
+
+### Databases & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,redis" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel" />
+</p>
+
+### Data & Machine Learning
+
+<p>
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge\&logo=r\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+
+</p>
+
+### Development & API Tools
+
+<p>
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge\&logo=jest\&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge\&logo=swagger\&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+
+</p>
+
+---
+
+## Engineering Approach
+
+I approach development with a simple principle:
+
+> **Understand the problem before building the solution.**
+
+My typical workflow is:
+
+**Understand → Explore → Design → Build → Test → Measure → Improve**
+
+I value:
+
+* Clear problem definition
+* Simple and maintainable architecture
+* Thoughtful user experience
+* Data-informed decisions
+* Reusable solutions
+* Continuous learning
+
+---
+
+## Education
+
+🎓 **MSc in Decision & Computing Sciences**
+**5-Year Integrated Programme — Completed**
+
+My academic journey gave me a foundation across software development, computing, data analytics, statistics, decision sciences, and machine learning.
+
+---
+
+## Current Focus
+
+I’m currently focused on becoming a stronger **product-minded software engineer** by combining engineering, data, and AI.
+
+Areas I’m actively exploring:
+
+* AI-powered products
+* Intelligent automation
+* Scalable backend systems
+* Advanced full-stack architecture
+* Data-driven applications
+* Decision-support platforms
+* Cloud deployment
+* Product engineering
+
+---
+
+## Open to
+
+I’m open to:
+
+* Software engineering opportunities
+* Full-stack development roles
+* Data & analytics opportunities
+* AI/ML projects
+* Product engineering
+* Technical collaborations
+* Open-source projects
+* Building products with ambitious teams
+
+---
+
+## GitHub
+
+I use GitHub to document my work, experiment with new technologies, and build practical software across **full-stack development, data, and AI/ML**.
 
 <p align="center">
-  <a href="mailto:zkhaleef27@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  <a href="https://github.com/KhaleefZ?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repositories"/>
   </a>
-  <a href="https://www.linkedin.com/in/khaleef-z" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.kaggle.com/zkhaleef" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
-  </a>
-  <a href="https://www.hackerrank.com/h71762133026" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
-  </a>
-  <a href="https://github.com/zkhaleef" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  <a href="https://github.com/KhaleefZ">
+    <img src="https://img.shields.io/github/followers/KhaleefZ?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers"/>
   </a>
 </p>
 
+---
 
+## Connect
 
+<p align="center">
 
+<a href="mailto:zkhaleef27@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://www.linkedin.com/in/khaleef-z">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://www.kaggle.com/zkhaleef">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+</a>
+
+<a href="https://www.hackerrank.com/h71762133026">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+</a>
+
+<a href="https://github.com/KhaleefZ">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <strong>Building practical software. Solving meaningful problems. Continuously improving.</strong>
+</p>
