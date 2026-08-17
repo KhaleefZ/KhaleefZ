@@ -164,21 +164,6 @@ Areas I’m actively exploring:
 
 ---
 
-## Open to
-
-I’m open to:
-
-* Software engineering opportunities
-* Full-stack development roles
-* Data & analytics opportunities
-* AI/ML projects
-* Product engineering
-* Technical collaborations
-* Open-source projects
-* Building products with ambitious teams
-
----
-
 ## GitHub
 
 I use GitHub to document my work, experiment with new technologies, and build practical software across **full-stack development, data, and AI/ML**.
@@ -186,9 +171,6 @@ I use GitHub to document my work, experiment with new technologies, and build pr
 <p align="center">
   <a href="https://github.com/KhaleefZ?tab=repositories">
     <img src="https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repositories"/>
-  </a>
-  <a href="https://github.com/KhaleefZ">
-    <img src="https://img.shields.io/github/followers/KhaleefZ?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers"/>
   </a>
 </p>
 
