@@ -1,0 +1,86 @@
+<svg viewBox="0 0 980 160" xmlns="http://www.w3.org/2000/svg" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0e75b6"/>
+      <stop offset="100%" stop-color="#22c1c3"/>
+    </linearGradient>
+  </defs>
+
+  <!-- base connecting line -->
+  <line x1="60" y1="80" x2="920" y2="80" stroke="#30363d" stroke-width="3"/>
+
+  <!-- animated progress line -->
+  <line x1="60" y1="80" x2="920" y2="80" stroke="url(#lineGrad)" stroke-width="3" stroke-dasharray="860" stroke-dashoffset="860">
+    <animate attributeName="stroke-dashoffset" values="860;0;0;860" keyTimes="0;0.45;0.85;1" dur="7s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- moving dot -->
+  <circle r="7" fill="#22c1c3">
+    <animateMotion dur="7s" repeatCount="indefinite" keyPoints="0;1;1;0" keyTimes="0;0.45;0.85;1" calcMode="linear"
+      path="M60,80 L920,80"/>
+  </circle>
+
+  <!-- Step nodes -->
+  <!-- Understand -->
+  <g>
+    <circle cx="60" cy="80" r="22" fill="#0e75b6">
+      <animate attributeName="r" values="22;26;22" keyTimes="0;0.5;1" dur="1s" begin="0s;7s" fill="freeze"/>
+    </circle>
+    <text x="60" y="86" text-anchor="middle" fill="white" font-size="13" font-weight="bold">U</text>
+    <text x="60" y="125" text-anchor="middle" fill="#c9d1d9" font-size="15">Understand</text>
+  </g>
+
+  <!-- Explore -->
+  <g>
+    <circle cx="204" cy="80" r="22" fill="#1f7bb6">
+      <animate attributeName="r" values="22;26;22" keyTimes="0;0.5;1" dur="1s" begin="0.9s" fill="freeze"/>
+    </circle>
+    <text x="204" y="86" text-anchor="middle" fill="white" font-size="13" font-weight="bold">E</text>
+    <text x="204" y="125" text-anchor="middle" fill="#c9d1d9" font-size="15">Explore</text>
+  </g>
+
+  <!-- Design -->
+  <g>
+    <circle cx="348" cy="80" r="22" fill="#2b81b6">
+      <animate attributeName="r" values="22;26;22" keyTimes="0;0.5;1" dur="1s" begin="1.8s" fill="freeze"/>
+    </circle>
+    <text x="348" y="86" text-anchor="middle" fill="white" font-size="13" font-weight="bold">D</text>
+    <text x="348" y="125" text-anchor="middle" fill="#c9d1d9" font-size="15">Design</text>
+  </g>
+
+  <!-- Build -->
+  <g>
+    <circle cx="492" cy="80" r="22" fill="#3787b6">
+      <animate attributeName="r" values="22;26;22" keyTimes="0;0.5;1" dur="1s" begin="2.7s" fill="freeze"/>
+    </circle>
+    <text x="492" y="86" text-anchor="middle" fill="white" font-size="13" font-weight="bold">B</text>
+    <text x="492" y="125" text-anchor="middle" fill="#c9d1d9" font-size="15">Build</text>
+  </g>
+
+  <!-- Test -->
+  <g>
+    <circle cx="636" cy="80" r="22" fill="#1f9ab0">
+      <animate attributeName="r" values="22;26;22" keyTimes="0;0.5;1" dur="1s" begin="3.6s" fill="freeze"/>
+    </circle>
+    <text x="636" y="86" text-anchor="middle" fill="white" font-size="13" font-weight="bold">T</text>
+    <text x="636" y="125" text-anchor="middle" fill="#c9d1d9" font-size="15">Test</text>
+  </g>
+
+  <!-- Measure -->
+  <g>
+    <circle cx="780" cy="80" r="22" fill="#20a89f">
+      <animate attributeName="r" values="22;26;22" keyTimes="0;0.5;1" dur="1s" begin="4.5s" fill="freeze"/>
+    </circle>
+    <text x="780" y="86" text-anchor="middle" fill="white" font-size="13" font-weight="bold">M</text>
+    <text x="780" y="125" text-anchor="middle" fill="#c9d1d9" font-size="15">Measure</text>
+  </g>
+
+  <!-- Improve -->
+  <g>
+    <circle cx="920" cy="80" r="22" fill="#22c1c3">
+      <animate attributeName="r" values="22;28;22" keyTimes="0;0.5;1" dur="1.2s" begin="5.4s" fill="freeze"/>
+    </circle>
+    <text x="920" y="86" text-anchor="middle" fill="white" font-size="13" font-weight="bold">I</text>
+    <text x="920" y="125" text-anchor="middle" fill="#c9d1d9" font-size="15">Improve</text>
+  </g>
+</svg>
