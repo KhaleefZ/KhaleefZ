@@ -1,11 +1,7 @@
 # Khaleef Z
 
 <p align="center">
-  <strong>Full-Stack Developer · Data & Analytics · AI/ML</strong>
-</p>
-
-<p align="center">
-  Building practical, data-driven software that solves real-world problems.
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=0E75B6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Data+%26+Analytics+Engineer;AI%2FML+Practitioner;Building+Real-World+Software" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -16,11 +12,24 @@
 
 ---
 
+<p align="center">
+  <a href="#about">About</a> ·
+  <a href="#what-i-build">What I Build</a> ·
+  <a href="#technology">Technology</a> ·
+  <a href="#engineering-approach">Engineering Approach</a> ·
+  <a href="#education">Education</a> ·
+  <a href="#current-focus">Current Focus</a> ·
+  <a href="#github">GitHub</a> ·
+  <a href="#connect">Connect</a>
+</p>
+
+---
+
 ## About
 
-I'm a Full-Stack Developer with an academic background in Decision & Computing Sciences, focused on building reliable software, data-driven applications, and intelligent systems.
+Full-Stack Developer with an academic background in Decision & Computing Sciences, focused on building reliable software, data-driven applications, and intelligent systems.
 
-I work across the full product lifecycle — from understanding a problem and designing a solution, to building, deploying, and iterating on it — with particular interest in how software and data combine to make complex processes simpler and smarter.
+I work across the full product lifecycle — understanding the problem, designing the solution, building and deploying it, and iterating based on results — with a particular interest in how software and data combine to make complex processes simpler and more effective.
 
 **Core areas:** Software Engineering · Full-Stack Development · Data Analytics & Decision Systems · Artificial Intelligence & Machine Learning · Product Development
 
@@ -28,14 +37,18 @@ I work across the full product lifecycle — from understanding a problem and de
 
 ## What I Build
 
+<p align="center">
+  <img src="./what-i-build-animation.svg" alt="What I build: Full-Stack Applications, Data & Analytics, AI & Intelligent Systems" width="100%"/>
+</p>
+
 **Full-Stack Applications**
-Modern web applications with clean user experiences, scalable backend architecture, RESTful APIs, secure authentication, and thoughtful database design.
+Modern web applications built with clean user experiences, scalable backend architecture, secure authentication, RESTful APIs, and thoughtful database design.
 
 **Data & Analytics**
-Turning raw data into actionable insight through data cleaning, exploratory analysis, statistical modelling, visualization, and business intelligence.
+Transforming raw data into actionable insight through data cleaning, exploratory analysis, statistical modelling, visualization, and business intelligence.
 
 **AI & Intelligent Systems**
-Practical applications of AI/ML, including predictive modelling, classification, recommendation systems, and intelligent automation.
+Practical applications of AI and machine learning, including predictive modelling, classification, recommendation systems, and intelligent automation.
 
 ---
 
@@ -79,7 +92,9 @@ Practical applications of AI/ML, including predictive modelling, classification,
 
 > Understand the problem before building the solution.
 
-**Workflow:** Understand → Explore → Design → Build → Test → Measure → Improve
+<p align="center">
+  <img src="./workflow-animation.svg" alt="Engineering workflow: Understand, Explore, Design, Build, Test, Measure, Improve" width="100%"/>
+</p>
 
 I value clear problem definition, simple and maintainable architecture, thoughtful user experience, and data-informed decision-making.
 
@@ -95,7 +110,11 @@ A foundation spanning software development, computing, data analytics, statistic
 
 ## Current Focus
 
-Growing as a product-minded software engineer at the intersection of engineering, data, and AI — with active focus on AI-powered products, intelligent automation, scalable backend systems, and cloud deployment.
+<p align="center">
+  <img src="./current-focus-animation.svg" alt="Current focus areas orbiting around product-minded engineering" width="70%"/>
+</p>
+
+Growing as a product-minded software engineer at the intersection of engineering, data, and AI, with active focus on AI-powered products, intelligent automation, scalable backend systems, and cloud deployment.
 
 ---
 
@@ -105,6 +124,15 @@ Growing as a product-minded software engineer at the intersection of engineering
   <a href="https://github.com/KhaleefZ?tab=repositories">
     <img src="https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repositories"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KhaleefZ&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhaleefZ&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaleefZ&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="150"/>
 </p>
 
 ---
