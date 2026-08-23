@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Building practical software and data-driven systems that solve real-world problems.
+  Building practical, data-driven software that solves real-world problems.
 </p>
 
 <p align="center">
@@ -18,155 +18,88 @@
 
 ## About
 
-I’m a **Full-Stack Developer** with an academic background in **Decision & Computing Sciences**, focused on building reliable software, data-driven applications, and intelligent systems.
+I'm a Full-Stack Developer with an academic background in Decision & Computing Sciences, focused on building reliable software, data-driven applications, and intelligent systems.
 
-I enjoy working across the entire product lifecycle — from understanding a problem and designing the solution to developing the application, connecting the data, deploying it, and continuously improving it.
+I work across the full product lifecycle — from understanding a problem and designing a solution, to building, deploying, and iterating on it — with particular interest in how software and data combine to make complex processes simpler and smarter.
 
-My interests sit at the intersection of:
-
-* **Software Engineering**
-* **Full-Stack Development**
-* **Data Analytics & Decision Systems**
-* **Artificial Intelligence & Machine Learning**
-* **Product Development**
-
-I’m particularly interested in how software and data can be combined to make complex processes **simpler, smarter, and more useful**.
+**Core areas:** Software Engineering · Full-Stack Development · Data Analytics & Decision Systems · Artificial Intelligence & Machine Learning · Product Development
 
 ---
 
 ## What I Build
 
-### Full-Stack Applications
+**Full-Stack Applications**
+Modern web applications with clean user experiences, scalable backend architecture, RESTful APIs, secure authentication, and thoughtful database design.
 
-Designing and developing modern web applications with a focus on:
+**Data & Analytics**
+Turning raw data into actionable insight through data cleaning, exploratory analysis, statistical modelling, visualization, and business intelligence.
 
-* Clean and intuitive user experiences
-* Scalable backend architecture
-* RESTful APIs
-* Authentication and data management
-* Database design
-* Performance and maintainability
-
-### Data & Analytics
-
-Working with data to transform raw information into meaningful insights through:
-
-* Data cleaning and preparation
-* Exploratory data analysis
-* Statistical analysis
-* Data visualization
-* Business intelligence
-* Decision-support systems
-
-### AI & Intelligent Systems
-
-Exploring practical applications of AI and machine learning, including:
-
-* Predictive modelling
-* Classification
-* Recommendation systems
-* Intelligent automation
-* AI-powered applications
-* Data-driven decision making
+**AI & Intelligent Systems**
+Practical applications of AI/ML, including predictive modelling, classification, recommendation systems, and intelligent automation.
 
 ---
 
 ## Technology
 
-### Languages & Frameworks
-
+**Languages & Frameworks**
 <p>
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css" />
 </p>
-
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,flask,django" />
 </p>
 
-### Databases & Infrastructure
-
+**Databases & Infrastructure**
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,redis" />
 </p>
-
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,vercel" />
 </p>
 
-### Data & Machine Learning
-
+**Data & Machine Learning**
 <p>
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge\&logo=r\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
-### Development & API Tools
-
+**Development & API Tools**
 <p>
-
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge\&logo=jest\&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge\&logo=swagger\&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ---
 
 ## Engineering Approach
 
-I approach development with a simple principle:
+> Understand the problem before building the solution.
 
-> **Understand the problem before building the solution.**
+**Workflow:** Understand → Explore → Design → Build → Test → Measure → Improve
 
-My typical workflow is:
-
-**Understand → Explore → Design → Build → Test → Measure → Improve**
-
-I value:
-
-* Clear problem definition
-* Simple and maintainable architecture
-* Thoughtful user experience
-* Data-informed decisions
-* Reusable solutions
-* Continuous learning
+I value clear problem definition, simple and maintainable architecture, thoughtful user experience, and data-informed decision-making.
 
 ---
 
 ## Education
 
-🎓 **MSc in Decision & Computing Sciences**
-**5-Year Integrated Programme — Completed**
+**MSc, Decision & Computing Sciences** — 5-Year Integrated Programme
 
-My academic journey gave me a foundation across software development, computing, data analytics, statistics, decision sciences, and machine learning.
+A foundation spanning software development, computing, data analytics, statistics, decision sciences, and machine learning.
 
 ---
 
 ## Current Focus
 
-I’m currently focused on becoming a stronger **product-minded software engineer** by combining engineering, data, and AI.
-
-Areas I’m actively exploring:
-
-* AI-powered products
-* Intelligent automation
-* Scalable backend systems
-* Advanced full-stack architecture
-* Data-driven applications
-* Decision-support platforms
-* Cloud deployment
-* Product engineering
+Growing as a product-minded software engineer at the intersection of engineering, data, and AI — with active focus on AI-powered products, intelligent automation, scalable backend systems, and cloud deployment.
 
 ---
 
 ## GitHub
-
-I use GitHub to document my work, experiment with new technologies, and build practical software across **full-stack development, data, and AI/ML**.
 
 <p align="center">
   <a href="https://github.com/KhaleefZ?tab=repositories">
@@ -179,20 +112,15 @@ I use GitHub to document my work, experiment with new technologies, and build pr
 ## Connect
 
 <p align="center">
-
-<a href="mailto:zkhaleef27@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<a href="https://www.linkedin.com/in/khaleef-z">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-
-<a href="https://github.com/KhaleefZ">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
+  <a href="mailto:zkhaleef27@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/khaleef-z">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/KhaleefZ">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 ---
