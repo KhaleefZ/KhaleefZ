@@ -1,0 +1,58 @@
+<svg viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0e75b6"/>
+      <stop offset="100%" stop-color="#22c1c3"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7b2ff7"/>
+      <stop offset="100%" stop-color="#22c1c3"/>
+    </linearGradient>
+    <linearGradient id="g3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f7971e"/>
+      <stop offset="100%" stop-color="#e63946"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Full-Stack Applications -->
+  <g>
+    <circle cx="150" cy="80" r="48" fill="url(#g1)" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0.85" keyTimes="0;0.15;0.85;1" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="42;50;48" keyTimes="0;0.15;1" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <text x="150" y="88" text-anchor="middle" fill="white" font-size="26" opacity="0">
+      &lt;/&gt;
+      <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.15;1" dur="6s" repeatCount="indefinite"/>
+    </text>
+    <text x="150" y="165" text-anchor="middle" fill="#c9d1d9" font-size="17" font-weight="bold">Full-Stack Applications</text>
+    <text x="150" y="188" text-anchor="middle" fill="#8b949e" font-size="12">Scalable, well-tested web apps</text>
+  </g>
+
+  <!-- Data & Analytics -->
+  <g>
+    <circle cx="450" cy="80" r="48" fill="url(#g2)" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0.85" keyTimes="0;0.15;0.3;0.85;1" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="42;42;50;48" keyTimes="0;0.15;0.3;1" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <text x="450" y="90" text-anchor="middle" fill="white" font-size="24" opacity="0">
+      &#128202;
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.15;0.3;1" dur="6s" repeatCount="indefinite"/>
+    </text>
+    <text x="450" y="165" text-anchor="middle" fill="#c9d1d9" font-size="17" font-weight="bold">Data &amp; Analytics</text>
+    <text x="450" y="188" text-anchor="middle" fill="#8b949e" font-size="12">Turning raw data into insight</text>
+  </g>
+
+  <!-- AI & Intelligent Systems -->
+  <g>
+    <circle cx="750" cy="80" r="48" fill="url(#g3)" opacity="0">
+      <animate attributeName="opacity" values="0;0;0;1;1;0.85" keyTimes="0;0.15;0.3;0.45;0.85;1" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="42;42;42;50;48" keyTimes="0;0.15;0.3;0.45;1" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <text x="750" y="90" text-anchor="middle" fill="white" font-size="24" opacity="0">
+      &#129504;
+      <animate attributeName="opacity" values="0;0;0;1;1" keyTimes="0;0.15;0.3;0.45;1" dur="6s" repeatCount="indefinite"/>
+    </text>
+    <text x="750" y="165" text-anchor="middle" fill="#c9d1d9" font-size="17" font-weight="bold">AI &amp; Intelligent Systems</text>
+    <text x="750" y="188" text-anchor="middle" fill="#8b949e" font-size="12">Practical, applied machine learning</text>
+  </g>
+</svg>
