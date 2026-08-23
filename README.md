@@ -110,11 +110,16 @@ A foundation spanning software development, computing, data analytics, statistic
 
 ## Current Focus
 
-<p align="center">
-  <img src="./current-focus-animation.svg" alt="Current focus areas orbiting around product-minded engineering" width="70%"/>
-</p>
+Growing as a product-minded software engineer at the intersection of engineering, data, and AI.
 
-Growing as a product-minded software engineer at the intersection of engineering, data, and AI, with active focus on AI-powered products, intelligent automation, scalable backend systems, and cloud deployment.
+<p align="center">
+  <img src="https://img.shields.io/badge/AI--Powered_Products-0e75b6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Intelligent_Automation-1f7bb6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Scalable_Backends-2b81b6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Data--Driven_Apps-20a89f?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Decision_Support-22c1c3?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Cloud_Deployment-0e75b6?style=flat-square"/>
+</p>
 
 ---
 
@@ -124,15 +129,6 @@ Growing as a product-minded software engineer at the intersection of engineering
   <a href="https://github.com/KhaleefZ?tab=repositories">
     <img src="https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repositories"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhaleefZ&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhaleefZ&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaleefZ&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="150"/>
 </p>
 
 ---
